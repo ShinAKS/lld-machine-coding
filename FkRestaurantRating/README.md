@@ -1,5 +1,7 @@
 Restaurant Rating Platform
+
 Problem Statement
+
 Your aim is to implement a restaurant rating system. Following are the features that it should
 have:
 
