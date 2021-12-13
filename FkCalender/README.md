@@ -1,3 +1,3 @@
 # Event Calender Low Level Design
 
-For the problem statement please refer to the [pdf](Event_Calender.pdf)
+For the problem statement please refer to the Event_Calender.pdf
