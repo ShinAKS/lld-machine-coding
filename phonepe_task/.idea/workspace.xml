@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="abc7e32e-d154-44e2-85e6-2141ae86d0ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../FkDailyDelivery/FkDailyDelivery.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cache/cache.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-ingestion-service/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-ingestion-service/images/dataflow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-ingestion-service/images/models.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-ingestion-service/src/main/java/DataSetupRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-ingestion-service/src/main/java/com/ayush/feedbackingestionservice/controllers/PostController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-ingestion-service/src/main/java/com/ayush/feedbackingestionservice/dao/IPostRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-ingestion-service/src/main/java/com/ayush/feedbackingestionservice/dao/PostRepositoryInMemory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-ingestion-service/src/main/java/com/ayush/feedbackingestionservice/pojos/enums/PostType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-ingestion-service/src/main/java/com/ayush/feedbackingestionservice/pojos/models/Conversation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-ingestion-service/src/main/java/com/ayush/feedbackingestionservice/pojos/models/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-ingestion-service/src/main/java/com/ayush/feedbackingestionservice/pojos/models/PostMetadata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-ingestion-service/src/main/java/com/ayush/feedbackingestionservice/pojos/models/RequestSourceAttribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-ingestion-service/src/main/java/com/ayush/feedbackingestionservice/pojos/models/client/twitter/Tweet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-ingestion-service/src/main/java/com/ayush/feedbackingestionservice/pojos/models/client/zendesk/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-ingestion-service/src/main/java/com/ayush/feedbackingestionservice/pojos/models/client/zendesk/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-ingestion-service/src/main/java/com/ayush/feedbackingestionservice/pojos/models/client/zendesk/ZendeskTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-ingestion-service/src/main/java/com/ayush/feedbackingestionservice/requests/PostRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-ingestion-service/src/main/java/com/ayush/feedbackingestionservice/responses/ConversationPosts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-ingestion-service/src/main/java/com/ayush/feedbackingestionservice/service/IPostHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-ingestion-service/src/main/java/com/ayush/feedbackingestionservice/service/PostHandlerWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-ingestion-service/src/main/java/com/ayush/feedbackingestionservice/service/PostService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-ingestion-service/src/main/java/com/ayush/feedbackingestionservice/service/handlers/Intercom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-ingestion-service/src/main/java/com/ayush/feedbackingestionservice/service/handlers/TweetHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-ingestion-service/src/main/java/com/ayush/feedbackingestionservice/service/handlers/ZendeskHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-ingestion-service/src/main/resources/scripts/tweetdata_setup.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-ingestion-service/src/main/resources/scripts/zendesk_setup.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../log_library/log_library.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phonepe_task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phonepe_taskplanner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rate_limiter/rate_limiter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cache/untitled/pom.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2dOSs71SRZsJxMQW1pNPydzpEOT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="phonepe_task" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abc7e32e-d154-44e2-85e6-2141ae86d0ce" name="Default Changelist" comment="" />
+      <created>1709877835789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709877835789</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/service/TaskManagerImpl.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
